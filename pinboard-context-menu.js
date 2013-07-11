@@ -3,6 +3,11 @@ chrome.contextMenus.create({
     "title": "&+ Pinboard",
     "contexts": ["all"],
     "onclick": function(info, tab) {
+        /*
+         * Using chrome.window.create() was working okay,
+         * except that Pinboard's call to window.close() was
+         * being forbidden, but window.open() seems to allow for it.
+         */
         void(open(
             'https://pinboard.in/add?showtags=yes'
                 + '&url=' + encodeURIComponent(info.pageUrl)
