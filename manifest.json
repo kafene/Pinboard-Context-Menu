@@ -1,0 +1,9 @@
+{
+    "name": "Pinboard Context Menu",
+    "description": "Add Bookmarks to Pinboard.in from the context menu (right click).",
+    "icons": {"128": "icon-128.png", "16": "icon-16.png", "48": "icon-48.png"},
+    "background": {"page": "background.html"},
+    "manifest_version": 2,
+    "permissions": ["contextMenus", "tabs"],
+    "version": "1.0"
+}
