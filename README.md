@@ -2,6 +2,10 @@
 
 Add Bookmarks to Pinboard.in from the context menu (right click).
 
+This is an Add-On (aka Extension) for the new Opera web browser based on Chromium.
+It may also be compatible with other Chromium-based browsers, however it has only
+been tested in Opera.
+
 ## Development Notes:
 
 Using chrome.window.create() was working okay, except that Pinboard's call
