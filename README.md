@@ -17,7 +17,7 @@ feed it to Pinboard, so I gave up on that feature for now.
 
 ## About:
 
-The icons are from [http://simpleicons.org](Simple Icons by Dan Leech),  
+The icons are from [http://simpleicons.org](Simple Icons by Dan Leech),
 Licensed under the [Free Art License](http://artlibre.org/licence/lal/en).  
 GitHub Link: <https://github.com/danleech/simple-icons>
 
