@@ -1,6 +1,7 @@
 {
     "name": "Pinboard Context Menu",
     "description": "Add Bookmarks to Pinboard.in from the context menu (right click).",
+    "homepage_url": "https://github.com/kafene/Pinboard-Context-Menu",
     "icons": {"128": "icon-128.png", "16": "icon-16.png", "48": "icon-48.png"},
     "background": {"page": "background.html"},
     "manifest_version": 2,
